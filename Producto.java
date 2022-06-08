@@ -35,10 +35,10 @@ public class Producto {
    * Método que acepta tres valores de entrada {int} y que devulve el resultado de
    * la multiplicacion entre estos tres valores.
    * 
-   * @param realUno
-   * @param realDos
-   * @param realTres
-   * @return
+   * @param realUno {double}
+   * @param realDos {double}
+   * @param realTres {double}
+   * @return resultado de multiplicar realUno, realDos y realTres.
    */
   public double productoTresReales(double realUno, double realDos, double realTres) {
     return realUno * realDos * realTres;
