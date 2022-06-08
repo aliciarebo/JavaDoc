@@ -13,7 +13,7 @@
  * @version 1.0
  */
 public class Suma {
-  double acumulado;
+  double acumulado= 0;
 
   /**
    * Método que acepta dos valores reales y que devulve la suma de estos dos
